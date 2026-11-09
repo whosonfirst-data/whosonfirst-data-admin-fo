@@ -49,7 +49,7 @@
         "gn:id":2620327
     },
     "wof:country":"FO",
-    "wof:geomhash":"ece1b25d3cf3ff45d29c4f821eb9c88a",
+    "wof:geomhash":"cb82410dd9d4dcdaf8c86f0a2badd9d0",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -76,5 +76,5 @@
     -6.94433,
     62.10263000000001
 ],
-  "geometry": {"coordinates":[-6.94433,62.10263000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.94433,62.10263],"type":"Point"}
 }

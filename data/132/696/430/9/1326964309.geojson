@@ -72,7 +72,7 @@
         "wk:page":"Nes%2C_V%C3%A1gur"
     },
     "wof:country":"FO",
-    "wof:geomhash":"8d79a28ae3d716ee2d63194b02589fac",
+    "wof:geomhash":"902e6710ad9b8a7a692b11c0ba7aec72",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -99,5 +99,5 @@
     -6.75443,
     61.47264000000001
 ],
-  "geometry": {"coordinates":[-6.75443,61.47264000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.75443,61.47264],"type":"Point"}
 }

@@ -79,7 +79,7 @@
         "wk:page":"Langasandur"
     },
     "wof:country":"FO",
-    "wof:geomhash":"4a632fd31e4ba61d81198c0dbe738228",
+    "wof:geomhash":"b45274ccd679be65edb0af86aa0894ca",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -106,5 +106,5 @@
     -7.04654,
     62.23354000000001
 ],
-  "geometry": {"coordinates":[-7.04654,62.23354000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.04654,62.23354],"type":"Point"}
 }

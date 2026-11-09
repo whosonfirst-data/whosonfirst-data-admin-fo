@@ -75,7 +75,7 @@
         "wk:page":"%C3%86%C3%B0uv%C3%ADk"
     },
     "wof:country":"FO",
-    "wof:geomhash":"3dabdfcd055d40dfe2891de49d75483e",
+    "wof:geomhash":"2634478cc0f750faf1fc3dc671cd0ba6",
     "wof:hierarchy":[
         {
             "dependency_id":85633153,
@@ -98,5 +98,5 @@
     -6.68606,
     62.06916999999999
 ],
-  "geometry": {"coordinates":[-6.68606,62.06916999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.68606,62.06917],"type":"Point"}
 }

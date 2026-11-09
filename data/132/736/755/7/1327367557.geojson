@@ -60,7 +60,7 @@
         "wk:page":"V%C3%ADkar%2C_Faroe_Islands"
     },
     "wof:country":"FO",
-    "wof:geomhash":"8e55ab2327e6bbff7c588756bf90e064",
+    "wof:geomhash":"6f16408e2f96d13f998c3873eda7de9c",
     "wof:hierarchy":[
         {
             "continent_id":-1,
@@ -85,5 +85,5 @@
     -7.36667,
     62.13333000000001
 ],
-  "geometry": {"coordinates":[-7.36667,62.13333000000001],"type":"Point"}
+  "geometry": {"coordinates":[-7.36667,62.13333],"type":"Point"}
 }

@@ -41,7 +41,7 @@
         "gn:id":2613923
     },
     "wof:country":"FO",
-    "wof:geomhash":"a78325d001189dfbdfe0d04ba1fc8b88",
+    "wof:geomhash":"8c29a06085394e0f72e331e8c02cd524",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -68,5 +68,5 @@
     -6.59933,
     62.32073000000001
 ],
-  "geometry": {"coordinates":[-6.59933,62.32073000000001],"type":"Point"}
+  "geometry": {"coordinates":[-6.59933,62.32073],"type":"Point"}
 }

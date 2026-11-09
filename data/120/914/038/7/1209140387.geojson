@@ -38,7 +38,7 @@
         "gn:id":2619433
     },
     "wof:country":"FO",
-    "wof:geomhash":"7cd281b54d1ae1a2992530ed181601f3",
+    "wof:geomhash":"650f54153e5934f4d8dd0494e76e4af2",
     "wof:hierarchy":[
         {
             "dependency_id":85633153,
@@ -61,5 +61,5 @@
     -6.86667,
     61.46666999999999
 ],
-  "geometry": {"coordinates":[-6.86667,61.46666999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.86667,61.46667],"type":"Point"}
 }

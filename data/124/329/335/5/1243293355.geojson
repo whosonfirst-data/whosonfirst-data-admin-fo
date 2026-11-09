@@ -50,7 +50,7 @@
         "wk:page":"Sj%C3%B3var%2C_Faroe_Islands"
     },
     "wof:country":"FO",
-    "wof:geomhash":"538feb7732382dec9bb762eebdecda2d",
+    "wof:geomhash":"bf6df69fa82066da8ad8d7de9b79c783",
     "wof:hierarchy":[
         {
             "continent_id":102191581,
@@ -77,5 +77,5 @@
     -6.75005,
     62.11966999999999
 ],
-  "geometry": {"coordinates":[-6.75005,62.11966999999999],"type":"Point"}
+  "geometry": {"coordinates":[-6.75005,62.11967],"type":"Point"}
 }
